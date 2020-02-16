@@ -1,2 +1,2 @@
 # miniMACRO
-Macropad based on Arduino Pro Mini with support for combination of up to 5 rotary encoders or 5 mechanical switches
+Macropad based on Arduino Pro Mini with support for a combination of up to 5 rotary encoders or 5 mechanical switches
