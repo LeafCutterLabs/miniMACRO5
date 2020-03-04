@@ -1,4 +1,5 @@
-/* 8/30/19 PCB PINOUTS
+/*Arduino Sketch for 8/30/19 v2 PCB 
+ *PINOUTS
  *USB (Button closest to USB is first)        A3 14 15 10 16 
  *A/B/Button [0,1,NC][2,3,8][7,9,6] I did not wire in the switch for the rotary closest to usb, will be fixed in future revisions.
  */
