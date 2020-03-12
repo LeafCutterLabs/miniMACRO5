@@ -5,7 +5,7 @@ QMK powered macropad based on Arduino Pro Mini with support for up to 5 rotary e
 <a href="https://www.tindie.com/products/13487/" target="_blank"><img src="https://github.com/LeafCutterLabs/docs/blob/master/GetOneNow.png" width="500"></a>
 <br><b>BOM:</b>
 <br>1 - Arduino Pro Micro with headers - SparkFun, eBay, Amazon
-<br>2 - Rotary encoders - Bourns Pec12r and Pec11r, Alps, and the cheap chinesse versions have been tasted. Any quadrature encocder that fits should work. Supports switch encoders.
+<br>2 - Rotary encoders - Bourns Pec12r and Pec11r, Alps, and the cheap chinesse versions have been tested. Any quadrature encocder that fits should work. Supports switch encoders.
 <br>3 - Cherry MX style switches
 <br>4 - Reset switch (optional)
 <br>5 - ICSP headers (optional)
