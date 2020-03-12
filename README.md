@@ -1,6 +1,6 @@
 # miniMACRO5
 QMK powered macropad based on Arduino Pro Mini with support for up to 5 rotary encoders or 5 mechanical switches and RGB underglow.
-![](photos/finish3.jpg)
+![](photos/finishedshow.jpg)
 <br>
 <a href="https://www.tindie.com/products/13487/" target="_blank"><img src="https://github.com/LeafCutterLabs/docs/blob/master/GetOneNow.png" width="500"></a>
 <br><b>BOM:</b>
