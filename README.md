@@ -2,7 +2,9 @@
 QMK powered macropad based on Arduino Pro Mini with support for up to 5 rotary encoders or 5 mechanical switches and RGB underglow.
 ![](photos/finishedshow.jpg)
 <br>
-<a href="https://www.tindie.com/products/13487/" target="_blank"><img src="https://github.com/LeafCutterLabs/docs/blob/master/GetOneNow.png" width="500"></a>
+<a href="https://www.tindie.com/products/13487/" target="_blank"><img src="https://github.com/LeafCutterLabs/docs/blob/master/getonenow.png" width="500"></a>
+<br>
+<a href="https://www.etsy.com/listing/772600648/minimacro5-a-custom-programmable" target="_blank"><img src="https://github.com/LeafCutterLabs/docs/blob/master/intgetonenow.png" width="500"></a>
 <br><b>BOM:</b>
 <br>1 - Arduino Pro Micro with headers - SparkFun, eBay, Amazon
 <br>2 - Rotary encoders - Bourns Pec12r and Pec11r, Alps, and the cheap chinesse versions have been tested. Any quadrature encocder that fits should work. Supports switch encoders.
