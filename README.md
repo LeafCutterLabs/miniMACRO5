@@ -1,5 +1,5 @@
 # miniMACRO5
-QMK powered macropad based on Arduino Pro Mini with support for up to 5 rotary encoders or 5 mechanical switches and RGB underglow.
+QMK powered macropad based on Arduino Pro Micro with support for up to 5 rotary encoders or 5 mechanical switches and RGB underglow.
 ![](photos/miscconfigs.jpg)
 ![](photos/underglow.jpg)
 <br>
