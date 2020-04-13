@@ -14,11 +14,11 @@ QMK powered macropad based on Arduino Pro Mini with support for up to 5 rotary e
 <br>3 - Cherry MX style switches
 <br>4 - Keycaps for your chosen switches
 <br>5 - Case (3d printable STL in `/hardware`)
-<br>6 - 4x M2 mounting screws
+<br>6 - 4x 4mm M2 mounting screws
 
 ### Optional components
 <br />1 - Reset switch
-<br />2 - ICSP headers (only required to flash the Arduino if the Caterina bootloader not present)
+<br />2 - ICSP headers (only required to flash the Arduino if the Caterina bootloader is not present)
 <br />3 - WS2812 strip for RGB underglow)
 
 # Assembly
