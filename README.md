@@ -6,15 +6,22 @@ QMK powered macropad based on Arduino Pro Micro with support for up to 5 rotary 
 <a href="https://www.tindie.com/products/13487/" target="_blank"><img src="https://github.com/LeafCutterLabs/docs/blob/master/getonenow.png" width="500"></a>
 <br>
 <a href="https://www.etsy.com/listing/772600648/minimacro5-a-custom-programmable" target="_blank"><img src="https://github.com/LeafCutterLabs/docs/blob/master/intgetonenow.png" width="500"></a>
-<br><b>BOM:</b>
+
+## Bill of materials (BOM)
+### Required components
 <br>1 - Arduino Pro Micro with headers - SparkFun, eBay, Amazon
-<br>2 - Rotary encoders - Bourns Pec12r and Pec11r, Alps, and the cheap chinesse versions have been tested. Any quadrature encocder that fits should work. Supports switch encoders.
+<br>2 - Rotary encoders - Bourns Pec12r and Pec11r, Alps, and the cheap Chinesse versions have been tested. Any quadrature encocder that fits should work. Supports switch encoders.
 <br>3 - Cherry MX style switches
-<br>4 - Reset switch (optional)
-<br>5 - ICSP headers (optional)
-<br>6 - WS2812 strip for RGB underglow (optional)
-<br>7 - Case (3d printable STL in /hardware) and M2 mounting screws
-<br><h1>Assembly:</h1>
+<br>4 - Keycaps for your chosen switches
+<br>5 - Case (3d printable STL in `/hardware`)
+<br>6 - 4x 4mm M2 mounting screws
+
+### Optional components
+<br />1 - Reset switch
+<br />2 - ICSP headers (only required to flash the Arduino if the Caterina bootloader is not present)
+<br />3 - WS2812 strip for RGB underglow)
+
+# Assembly
 ![](photos/parts.jpg)
 Step 1: Solder in the reset switch, ICSP ports, and Pro Micro headers (may need to trim the extra header length). Tape over the usb port to prevent shorts (the assembly is pretty tight).
 ![](photos/tape.jpg)
