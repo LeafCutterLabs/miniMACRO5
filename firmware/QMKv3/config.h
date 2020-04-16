@@ -47,6 +47,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DIRECT_PINS {   \
     { F4, B6, B2, D7, B4 } \
 }
+//speed for double tap
+#define TAPPING_TERM 200
+
 #define UNUSED_PINS
 
 /* rotary encoder 1,2,3 closest to usb port is 0*/
@@ -57,4 +60,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* ws2812 RGB LED */
 #define RGB_DI_PIN B5
 #define RGBLIGHT_ANIMATIONS
-#define RGBLED_NUM 6    // Number of LEDs
+#define RGBLED_NUM 5    // Number of LEDs
