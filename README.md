@@ -3,9 +3,7 @@ QMK powered macropad based on Arduino Pro Micro with support for up to 5 rotary 
 ![](photos/miscconfigs.jpg)
 ![](photos/underglow.jpg)
 <br>
-<a href="https://www.tindie.com/products/13487/" target="_blank"><img src="https://github.com/LeafCutterLabs/docs/blob/master/getonenow.png" width="500"></a>
-<br>
-<a href="https://www.etsy.com/listing/772600648/minimacro5-a-custom-programmable" target="_blank"><img src="https://github.com/LeafCutterLabs/docs/blob/master/intgetonenow.png" width="500"></a>
+<a href="https://www.etsy.com/listing/772600648/minimacro5-a-custom-programmable"><img src="https://github.com/LeafCutterLabs/docs/blob/master/getonenow.png" width="500"></a>
 
 ## Bill of materials (BOM)
 ### Required components
