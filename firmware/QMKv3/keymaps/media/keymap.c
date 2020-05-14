@@ -42,8 +42,8 @@ enum {
 
 void dance_rgb_finished (qk_tap_dance_state_t *state, void *user_data) {
   if (state->count == 1) {
-    register_code (KC_MPLY);
-	unregister_code (KC_MPLY);
+    register_code (KC_MEDIA_NEXT_TRACK);
+	unregister_code (KC_MEDIA_NEXT_TRACK);
   } else if (state->count == 2) {
     rgblight_toggle();
   } else if (state->count == 3) {
@@ -59,6 +59,6 @@ qk_tap_dance_action_t tap_dance_actions[] = {
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = { //buttion closest to usb is first
   [_MAIN] = LAYOUT(
-     KC_MUTE, KC_MPRV, KC_MNXT, KC_MSTP, TD(TD_RGB) 
+     KC_MUTE, KC_MEDIA_PREV_TRACK, KC_MEDIA_PLAY_PAUSE, KC_MEDIA_STOP, TD(TD_RGB) 
   )
 };

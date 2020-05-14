@@ -24,12 +24,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID      0x0007
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    leafcutterlabs
-#define PRODUCT         miniMACRO5
-#define DESCRIPTION     5 key/rotary  board
+#define PRODUCT         miniMACRO6
+#define DESCRIPTION     6 key/rotary  board
 
 /* key matrix size */
 #define MATRIX_ROWS 1
-#define MATRIX_COLS 5
+#define MATRIX_COLS 6
 
 /*
  * Keyboard Matrix Assignments
@@ -45,7 +45,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define MATRIX_ROW_PINS { D0, D5 }
 // #define MATRIX_COL_PINS { F1, F0, B0 }
 #define DIRECT_PINS {   \
-    { F4, B6, B2, D7, B4 } \
+    { D4, F4, F5, C6, B4, B2 } \
 }
 //speed for double tap
 #define TAPPING_TERM 200
@@ -53,11 +53,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define UNUSED_PINS
 
 /* rotary encoder 1,2,3 closest to usb port is 0*/
-#define ENCODERS_PAD_A { D3, F6, F7, D4, C6}
-#define ENCODERS_PAD_B { F5, D2, D1, D0, E6}
+#define ENCODERS_PAD_A { D1, D2}
+#define ENCODERS_PAD_B { D0, D3}
 #define ENCODER_RESOLUTION 4 //default/suggested
 
 /* ws2812 RGB LED */
 #define RGB_DI_PIN B5
 #define RGBLIGHT_ANIMATIONS
-#define RGBLED_NUM 5    // Number of LEDs
+#define RGBLED_NUM 4    // Number of LEDs
