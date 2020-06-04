@@ -13,7 +13,7 @@ QMK-powered macropad based on Arduino Pro Micro. Supports a mix of up to 5 rotar
 4. Keycaps for your chosen switches
 5. Case (3d printable STL in `/hardware`)
 6. 4x 4mm M2 mounting screws
-7. Electrical insulation tape (at this low voltage and current, regular clear tape will suffice)
+7. Electrical insulation tape (if you do not have any, at this low voltage and current, regular clear tape will suffice)
 
 ### Optional components
 1. Reset switch
