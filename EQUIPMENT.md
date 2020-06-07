@@ -1,3 +1,4 @@
+# Equipment
 This list of equipment shows what's required to build this project, as well as what is useful.  There's also a [step by step assembly guide](ASSEMBLY.md).
 
 ## Required
