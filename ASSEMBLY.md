@@ -46,7 +46,8 @@ If you find a short, remove the solder and redo the connection.
 
 ## Step 3 - Insulate the USB port
 There is not much clearance between the micro USB socket and other components on the board.  Insulate the USB socket by covering it with tape (electrical insulation tape is best, although gaffa (duct tape) or selotape will also work).
-![](photos/tape.jpg)
+
+![](photos/v3bAssembly/InsulateUSB.jpg)
 
 ## Step 4 - Add and solder rotary encoders
 Install rotary encoders wherever you want them (the board supports up to 5). The encoders will fit through the standard 14mm square plate hole for Cherry MX style switches.
@@ -63,7 +64,6 @@ Solder each of the switches to the board, making contact.
 
 Prior to the v3b case there was no plate, so the switches were first mounted to the board, then mounted into the case from the underside as below:
 ![](photos/casemount.jpg)
-
 
 ### A note on switches
 Three and five pin Cherry MX and compatible switches (e.g. Gateron) are supported by the miniMACRO5.  A _three pin_ switch has two copper contacts and a central stabilisation peg.  _Five pin_ switches have two copper contacts, a central stabilisation peg and two side pegs.
