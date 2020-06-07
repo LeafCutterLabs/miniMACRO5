@@ -97,7 +97,7 @@ Your completed build should look similar to this:
 ![](photos/v3bAssembly/CompletedBuildShowingLayers.jpg)
 
 ## Step 8 - Mount components into case
-Lower the completed board into the v3b case.  The Arduino Pro Micro should fit between the supports and the reset button should line up with the hole in the base.  Using M2 screws, secure the board into place.
+Lower the completed board into the v3b case.  The Arduino Pro Micro should fit between the supports (shown in pink) and the reset button should line up with the hole in the base.  Using M2 screws, secure the board into place.
 
 ![](photos/v3bAssembly/CaseMountPoints.jpg)
 
