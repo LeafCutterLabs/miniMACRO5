@@ -48,7 +48,7 @@ If using a version 3b case, press the switches into the plate until they click i
 
 Solder each of the switches to the board, making contact.
 
-Prior to the v3b case the switches were first mounted to the board, then mounted into the case from the underside as below:
+Prior to the v3b case there was no plate, so the switches were first mounted to the board, then mounted into the case from the underside as below:
 ![](photos/casemount.jpg)
 
 
@@ -66,12 +66,13 @@ Solder in the Pro Micro (USB port is oriented up).  Note that if you're not usin
 ![](photos/promicro.jpg)
 
 ## Step 7 (optional) - Solder RGB light strip
-If using an RGB light strip (e.g. the MS2812b) solder that in place to the VCC/DATA/GND headers on the board.
+If using an RGB light strip (e.g. the MS2812b) solder that to the VCC/DATA/GND headers on the board.
 
 ## Step 8 - Mount components into case
 Lower the completed board into the v3b case.  The Arduino Pro Micro should fit between the supports and the reset button should line up with the hole in the base.  Using M2 screws, secure the board into place.
 
-
+Add key caps and encoder knobs as required.
+	
 ## Step 8 - Program with QMK
 The miniMACRO5 runs the [QMK firmware](https://qmk.fm/).  See files at `/firmware/QMKv3/`.
 
