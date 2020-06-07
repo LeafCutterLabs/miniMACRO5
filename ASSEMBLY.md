@@ -36,13 +36,15 @@ There is not much clearance between the micro USB socket and other components on
 ![](photos/tape.jpg)
 
 ## Step 4 - Add and solder rotary encoders
-Install rotary encoders wherever you want them (the board supports up to 5). The encoders will fit through the standard 14mm square plate hole for Cherry MX switches.
+Install rotary encoders wherever you want them (the board supports up to 5). The encoders will fit through the standard 14mm square plate hole for Cherry MX style switches.
 ![](photos/rotaries.jpg)
 
 Once the encoders are mounted in place, solder them underneath to connect them.
 
 ## Step 5 - Install switches and solder the switches
 If using a version 3b case, press the switches into the plate until they click into place.  Then position the switches on the miniMACRO5 circuit board.
+
+![](photos/v3bAssembly/SwitchesThroughPlate.jpg)
 
 Solder each of the switches to the board, making contact.
 
