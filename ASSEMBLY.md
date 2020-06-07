@@ -1,5 +1,5 @@
 # Assembly
-Note that your components may look slightly different, or you may have chosen different components.  For a description of what the miniMACRO5 is, [see the readme](README.md) where you can also find the [bill of materials](README.md##bill-of-materials-bom).
+Note that your components may look slightly different, or you may have chosen different components.  For a description of what the miniMACRO5 is, [see the readme](README.md) where you can also find the [bill of materials](README.md#bill-of-materials-bom).
 
 ## A note on hardware versions
 The white circuit board in these photos is a version 3b board dated 03/15/2020.  There are minor differences between the v3 and v3b board and case but these instructions should still work for the most part.
@@ -19,6 +19,7 @@ Note that if using a rotary encoder (e.g. a Bourns PEC12R or PEC11R) these must 
 
 ## Where are components mounted?
 ![](photos/v3bAssembly/Topside.jpg)
+
 The _top side_ (above) of the miniMACRO5 is where the switches and encoders are mounted.  On this side of the board you'll see contacts and holes numbered 0 - 4.  Solder on the top side will be for the _ICSP header_ (optional), _MS2812b light strip_ (optional) and the _Arduino Pro Micro headers_.
 
 The _underside_ (below), where you'll see the _miniMACRO5_ branding and the GitHub project address, is where the _ICSP header_ (optional), _reset button_ (optional) and _MS2812b light strip_ (optional) are mounted.  On the _underside_ you'll solder the encoders, switches and reset button.
