@@ -88,8 +88,13 @@ Using a multimeter check for electrical continuity before soldering the Pro Micr
 If using an RGB light strip (e.g. the MS2812b) solder that to the VCC/DATA/GND holes on the board.  The solder should be applied to the _top side_.
 
 ## Step 7 - Solder Pro Micro to Pro Micro Headers
-Solder in the Pro Micro (USB port is oriented up).  Note that if you're not using the v3b case you'll need to screw the miniMACRO5 into the case before soldering the Pro Micro in place.
-![](photos/promicro.jpg)
+Solder the Pro Micro to the _underside_ of the miniMACRO5 - the USB port is oriented up.  Note that if you're not using the v3b case you'll need to screw the miniMACRO5 into the case before soldering the Pro Micro in place.
+
+![](photos/v3bAssembly/ProMicroSoldered.jpg)
+
+Your completed build should look similar to this:
+
+![](photos/v3bAssembly/CompletedBuildShowingLayers.jpg)
 
 ## Step 8 - Mount components into case
 Lower the completed board into the v3b case.  The Arduino Pro Micro should fit between the supports and the reset button should line up with the hole in the base.  Using M2 screws, secure the board into place.
