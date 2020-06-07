@@ -99,7 +99,11 @@ Your completed build should look similar to this:
 ## Step 8 - Mount components into case
 Lower the completed board into the v3b case.  The Arduino Pro Micro should fit between the supports and the reset button should line up with the hole in the base.  Using M2 screws, secure the board into place.
 
+![](photos/v3bAssembly/CaseMountPoints.jpg)
+
 Add key caps and encoder knobs as required.
+
+![](photos/v3bAssembly/CompletedBuildKeycaps.jpg)
 	
 ## Step 8 - Program with QMK
 The miniMACRO5 runs the [QMK firmware](https://qmk.fm/).  See files at `/firmware/QMKv3/`.
