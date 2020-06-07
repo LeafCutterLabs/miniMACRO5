@@ -40,6 +40,7 @@ An ICSP header is only needed if the bootloader is not already installed on the 
 ## Step 2 - Solder the Pro Micro Headers onto miniMACRO5
 Mount the Pro Micro headers on the _underside_ of the board, trim additional length and solder in place on the top side.
 
+![](photos/v3bAssembly/SolderProMicroHeaders.jpg)
 
 ## Step 2a (optional) - Check for shorts
 As the header is a small space to solder in you can check for electrical shorts by testing each pin of each side to see if it connects to any other.  At this stage no pin should create a circuit with any other pin on the header.
@@ -52,10 +53,13 @@ There is not much clearance between the micro USB socket and other components on
 ![](photos/v3bAssembly/InsulateUSB.jpg)
 
 ## Step 4 - Add and solder rotary encoders
-Install rotary encoders wherever you want them (the board supports up to 5). The encoders will fit through the standard 14mm square plate hole for Cherry MX style switches.
-![](photos/rotaries.jpg)
+Install rotary encoders wherever you want them (the board supports up to five). The encoders will fit through the standard 14mm square plate hole for Cherry MX style switches.  On the image below, the pink holes are for the support legs (top and bottom), the two blue holes on the right are for the encoder's push button and the three yellow holes (left) are for the rotary encoder.  Note this photo is of the top side to show you how to insert the encoder, you _must_ solder on the underside.
 
-Once the encoders are mounted in place, solder them underneath to connect them.
+![](photos/v3bAssembly/EncoderHolesPoints.jpg)
+
+Once mo
+
+![](photos/v3bAssembly/EncoderMounted.jpg)
 
 ## Step 5 - Install switches and solder the switches
 If using a version 3b case, press the switches into the plate until they click into place.  Then position the switches on the miniMACRO5 circuit board.
