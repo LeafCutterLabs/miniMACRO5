@@ -64,13 +64,11 @@ Once mounted the encoder will look like this:
 ## Step 5 - Install switches and solder the switches
 ![](photos/v3bAssembly/SwitchesThroughPlate.jpg)
 
-If using a version 3b case, press the switches into the plate until they click into place.  Then position the switches on the miniMACRO5 circuit board's _top side_.  The three pink holes (left to right) are 
+If using a version 3b case, press the switches into the plate until they click into place.  Then position the switches on the miniMACRO5 circuit board's _top side_.  The three pink holes (left to right) are for the stabiliser pegs while the two blue holes (above the legs) are for the copper pins.
 
 ![](photos/v3bAssembly/KeySwitchHolesPoints.jpg)
 
 Solder each of the switches to the _underside_ of the board, making contact.
-
-
 
 Prior to the v3b case there was no plate, so the switches were first mounted to the board, then mounted into the case from the underside as below:
 ![](photos/casemount.jpg)
