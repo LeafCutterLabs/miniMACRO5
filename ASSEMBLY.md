@@ -1,5 +1,5 @@
 # Assembly
-Note that your components may look slightly different, or you may have chosen different components.  For a description of what the miniMACRO5 is, [see the readme](README.md) where you can also find the [bill of materials](README.md##bill-of-materials-bom) can also be found.
+Note that your components may look slightly different, or you may have chosen different components.  For a description of what the miniMACRO5 is, [see the readme](README.md) where you can also find the [bill of materials](README.md##bill-of-materials-bom).
 
 ## A note on hardware versions
 The white circuit board in these photos is a version 3b board dated 03/15/2020.  There are minor differences between the v3 and v3b board and case but these instructions should still work for the most part.
@@ -43,7 +43,7 @@ Mount the Pro Micro headers on the _underside_ of the board, trim additional len
 ![](photos/v3bAssembly/SolderProMicroHeaders.jpg)
 
 ## Step 2a (optional) - Check for shorts
-As the header is a small space to solder in you can check for electrical shorts by testing each pin of each side to see if it connects to any other.  At this stage no pin should create a circuit with any other pin on the header.
+As the header has a lot of connections in a small space it it easy to create an accidental short circuit. You can check for electrical shorts by using a multimeter to test if any pins are connected together.  At this stage no pin should create a circuit with any other pin on the header.
 
 If you find a short, remove the solder and redo the connection.
 
