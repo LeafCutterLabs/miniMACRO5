@@ -57,16 +57,20 @@ Install rotary encoders wherever you want them (the board supports up to five). 
 
 ![](photos/v3bAssembly/EncoderHolesPoints.jpg)
 
-Once mo
+Once mounted the encoder will look like this:
 
 ![](photos/v3bAssembly/EncoderMounted.jpg)
 
 ## Step 5 - Install switches and solder the switches
-If using a version 3b case, press the switches into the plate until they click into place.  Then position the switches on the miniMACRO5 circuit board.
-
 ![](photos/v3bAssembly/SwitchesThroughPlate.jpg)
 
-Solder each of the switches to the board, making contact.
+If using a version 3b case, press the switches into the plate until they click into place.  Then position the switches on the miniMACRO5 circuit board's _top side_.  The three pink holes (left to right) are 
+
+![](photos/v3bAssembly/KeySwitchHolesPoints.jpg)
+
+Solder each of the switches to the _underside_ of the board, making contact.
+
+
 
 Prior to the v3b case there was no plate, so the switches were first mounted to the board, then mounted into the case from the underside as below:
 ![](photos/casemount.jpg)
