@@ -19,10 +19,16 @@ Note that if using a rotary encoder (e.g. a Bourns PEC12R or PEC11R) these must 
 
 
 ## Step 1 - Solder in the reset switch and ICSP ports
-Solder the reset switch into place.
+Solder the reset switch into place using the four pads on the underside of the board.  This is used to reboot the board in the event of problems.
 
+![](photos/v3bAssembly/ResetSwitch.jpg)
 
-Next solder in the ICSP port (option) if you need it.  An ICSP header is only needed if the bootloader is not already installed on the Arduino Pro Micro.
+Next solder in the ICSP port (optional) if you need it.  The header is mounted on the underside of the board so your solder will be on the top side (where your key switches and encoder will be mounted).  There are six holes for the ICSP header, as below.
+
+An ICSP header is only needed if the bootloader is not already installed on the Arduino Pro Micro.
+
+![](photos/v3bAssembly/ICSP_Header.jpg)
+
 
 ## Step 2 - Solder the Pro Micro Headers onto miniMACRO5
 
