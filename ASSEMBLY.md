@@ -38,6 +38,8 @@ An ICSP header is only needed if the bootloader is not already installed on the 
 
 
 ## Step 2 - Solder the Pro Micro Headers onto miniMACRO5
+Mount the Pro Micro headers on the _underside_ of the board, trim additional length and solder in place on the top side.
+
 
 ## Step 2a (optional) - Check for shorts
 As the header is a small space to solder in you can check for electrical shorts by testing each pin of each side to see if it connects to any other.  At this stage no pin should create a circuit with any other pin on the header.
