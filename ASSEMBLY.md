@@ -1,7 +1,7 @@
 # Assembly
 Note that your components may look slightly different, or you may have chosen different components.  For a description of what the miniMACRO5 is, [see the readme](README.md) where you can also find the [bill of materials](README.md##bill-of-materials-bom) can also be found.
 
-## A note on versions
+## A note on hardware versions
 The white circuit board in these photos is a version 3b board dated 03/15/2020.  There are minor differences between the v3 and v3b board and case but these instructions should still work for the most part.
 
 Prior to the v3b case the miniMACRO5 was installed from the underside of the case.
