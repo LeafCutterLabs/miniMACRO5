@@ -17,6 +17,13 @@ Where possible it's best to solder from low profile (shortest) components to hig
 
 Note that if using a rotary encoder (e.g. a Bourns PEC12R or PEC11R) these must be in place _before_ the Cherry switches.  The encoder cannot be inserted from the top of the plate (the plate must be placed over the top of the encoder) due to the connections being wider than switch holes in the plate.
 
+## Where are components mounted?
+![](photos/v3bAssembly/Topside.jpg)
+The _top side_ (above) of the miniMACRO5 is where the switches and encoders are mounted.  On this side of the board you'll see contacts and holes numbered 0 - 4.  Solder on the top side will be for the _ICSP header_ (optional), _MS2812b light strip_ (optional) and the _Arduino Pro Micro headers_.
+
+The _underside_ (below), where you'll see the _miniMACRO5_ branding and the GitHub project address, is where the _ICSP header_ (optional), _reset button_ (optional) and _MS2812b light strip_ (optional) are mounted.  On the _underside_ you'll solder the encoders, switches and reset button.
+
+![](photos/v3bAssembly/Underside.jpg)
 
 ## Step 1 - Solder in the reset switch and ICSP ports
 Solder the reset switch into place using the four pads on the underside of the board.  This is used to reboot the board in the event of problems.
