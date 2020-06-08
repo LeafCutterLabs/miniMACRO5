@@ -13,5 +13,6 @@ This list of equipment shows what's required to build this project, as well as w
 
 * Helping hands (crocodile clips for holding the board, often with a magnifying glass)
 * Multimeter for testing connections
+* Thin nosed wire cutters / tin snips (for trimming excess header length)
 
 ![](photos/v3bAssembly/HelpingHands.jpg)
