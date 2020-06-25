@@ -1,0 +1,1 @@
+Images in this directory are used in the [assembly guide](../../ASSEMBLY.md).
