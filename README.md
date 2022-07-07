@@ -16,7 +16,7 @@ QMK-powered macropad based on Arduino Pro Micro. Supports a mix of up to 5 rotar
 7. Electrical insulation tape (if you do not have any, at this low voltage and current, regular clear tape will suffice)
 
 ### Optional components
-1. Reset switch
+1. Reset switch (most 4pin 5.1 smd switches should work)
 2. ICSP headers (only required to flash the Arduino if the Caterina bootloader is not present)
 3. WS2812 LED strip (for RGB underglow)
 
