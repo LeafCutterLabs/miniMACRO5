@@ -44,7 +44,7 @@ Mount the Pro Micro headers on the _underside_ of the board, trim additional len
 ![](photos/v3bAssembly/SolderProMicroHeaders.jpg)
 
 ## Step 2a (optional) - Check for shorts
-As the header has a lot of connections in a small space it it easy to create an accidental short circuit. You can check for electrical shorts by using a multimeter to test if any pins are connected together.  At this stage no pin should create a circuit with any other pin on the header.
+As the header has a lot of connections in a small space it it easy to create an accidental short circuit. You can check for electrical shorts by using a multimeter to test if any pins are connected together.  At this stage no pin should create a circuit with any other pin on the header, except for the 3 GND pins. They are the third and fourth pin on one side. They should short with each other, and also short with the second pin (also GND) on the opposite side.
 
 If you find a short, remove the solder and redo the connection.
 
